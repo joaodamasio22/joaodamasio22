@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my GitHub
 
-<!--
-**joaodamasio22/joaodamasio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Development** student, passionate about technology, and always striving to grow as a developer.
 
-Here are some ideas to get you started:
+### 🚀 Learning Technologies:
+- 🐍 **Python** – programming logic, automation, and initial projects
+- 🌐 **HTML & CSS** – page creation and styling
+- 💡 **JavaScript** – interactivity and manipulation of web elements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 About me:
+- I'm at the beginning of my journey as a developer
+- I enjoy exploring new tools and languages
+- I'm always looking to learn more through practice and the community
+
+### 📌 Here you'll find:
+- Simple and practical projects
+- Study exercises
+- Testing and learning repositories
+
+### ✉️ Contact:
+You can find me right here on GitHub or send me a message if you'd like to exchange development ideas!
+
+---
+
+🧠 *"The best way to learn to program is by programming."*
