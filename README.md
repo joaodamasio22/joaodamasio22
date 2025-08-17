@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 - 💬 I'm 18 years old and currently live in Brazil. I have intermediate English skills and experience with HTML5, CSS3, JavaScript, and Python. I'm constantly learning, thrive in technology, and have strong leadership skills.
+ - 💬 I'm 18 years old and currently live in Brazil. I have intermediate English skills and experience with HTML5, CSS3, JavaScript, and Python. I'm constantly learning, thrive in technology, and have strong leadership skills.
 
 - ⚡ I like to play sports, like bodybuilding, soccer, skateboarding... I enjoy watching movies, series and playing games in my free time, but I'm also getting into the habit of reading.\o/
 </details>
