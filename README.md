@@ -1,41 +1,49 @@
-# 👋 Hello! Welcome to my GitHub
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, Welcome to my GitHub</h1></summary>
+</div>
 
-I'm a **Systems Development** student, passionate about technology, and always looking to grow as a developer.
+<!-- Presentation -->
+<p>
+ I'm João Damasio! A student passionate about Systems Development.
 
-### 🚀 Technologies being learned:
-- 🐍 **Python** – programming logic, automation, and initial projects
-- 🌐 **HTML & CSS** – page creation and styling
-- 💡 **JavaScript** – interactivity and manipulation of web elements
-
-### 📚 About me:
-- I'm at the beginning of my journey as a developer
-- I enjoy exploring new tools and languages
-- I'm always looking to learn more through practice and the community
-
-### 📌 Here you'll find:
-- Simple and practical projects
-- Study exercises
-- Testing and learning repositories
-
----
-
-### ✉️ Contact
-
-<p align="left">
-  <a href="https://github.com/joaodamasio22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_jdamasio/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:joaodamasio039@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ - 🌱 I'm currently studying Python and JavaScript through [[Curso em video](https://www.cursoemvideo.com)]
+- 🔭 I'm looking for my first job opportunity. My dream is to one day work in web development and AI creation.
 </p>
 
----
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-🧠 *"A melhor forma de aprender a programar é programando."*
+  - 💬 - 💬 I'm 18 years old and currently live in Brazil. I have intermediate English skills and experience with HTML5, CSS3, JavaScript, and Python. I'm constantly learning, thrive in technology, and have strong leadership skills.
+
+- ⚡ I like to play sports, like bodybuilding, soccer, skateboarding... I enjoy watching movies, series and playing games in my free time, but I'm also getting into the habit of reading.\o/
+</details>
+
+<!-- Links -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jdamasio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-damasio-2439b537a)
+
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodamasio22&show_icons=true&theme=gotham)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div align="center" style="flex-basis: 48%;">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+  </div>
+  
+
