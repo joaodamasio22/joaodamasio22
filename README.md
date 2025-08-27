@@ -45,6 +45,13 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
+  <div align="center" >
+
+
+   ![Profile Views](https://komarev.com/ghpvc/?username=Samu7-sys&color=brightgreen&style=for-the-badge)
+
+  </div>
+
   </div>
   
 
