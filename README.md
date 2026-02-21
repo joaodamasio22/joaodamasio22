@@ -8,8 +8,9 @@
 <p>
  I'm João Damasio! A student passionate about Systems Development.
 
- - 🌱 I'm currently studying Python and JavaScript through [[Curso em video](https://www.cursoemvideo.com)]
+ 1
 - 🔭 I'm looking for my first job opportunity. My dream is to one day work in web development and AI creation.
+- 🌱 I'm currently studying React.js and TypeScript.
 </p>
 
 <!-- Dropdown -->
