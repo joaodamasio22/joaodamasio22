@@ -8,7 +8,7 @@
 <p>
  I'm João Damasio! A student passionate about Systems Development.
 
- 1
+ 
 - 🔭 I'm looking for my first job opportunity. My dream is to one day work in web development and AI creation.
 - 🌱 I'm currently studying React.js and TypeScript.
 </p>
