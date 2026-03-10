@@ -77,6 +77,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ---
 
    ![Profile Views](https://komarev.com/ghpvc/?username=joaodamasio22-sys&color=brightgreen&style=for-the-badge)
