@@ -79,6 +79,7 @@
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
    ![Profile Views](https://komarev.com/ghpvc/?username=joaodamasio22-sys&color=brightgreen&style=for-the-badge)
