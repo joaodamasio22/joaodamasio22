@@ -1,8 +1,27 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, Welcome to my GitHub</h1></summary>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1a2e,100:0f3460&height=130&section=header&text=João%20Damasio&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=65&desc=%20student%20Developer%20System&descSize=16&descAlignY=85&descColor=64ffda"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=64FFDA&center=true&vCenter=true&width=650&lines=+JavaScript+%7C+Node.js+%7C+Python;+HTML+%7C+CSS+%7C+PHP;+PostgreeSQL+%7C+MySQL+%7C+SQL+LiveServer;+Welcome+To+My+Git-Hub)](https://git.io/typing-svg)
+
+<br/>
+
+
+[![Portifolio](https://img.shields.io/badge/%20Portifólio-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0a0a0a&color=1a1a2e)](https://site-portifolio-brown.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnl3OYQ7Pg17I0v6y6LZb7S-oTmmI9SRAGyvUX7DdmnHVlQrvrvIMMFpO2Hko_aem_KfXWUlKXfR2UgTolxzX0rg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30%" alt="Tech Divider">
+
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0a0a0a&color=1a1a2e)](https://www.linkedin.com/in/joao-damasio-2439b537a/)
+[![Instagram](https://img.shields.io/badge/%20Instagram-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0a0a0a&color=1a1a2e)](https://www.instagram.com/_jdamasio/)
+[![Gmail](https://img.shields.io/badge/%20Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=64ffda&labelColor=0a0a0a&color=1a1a2e)](mailto:joaodamasio039@gmail.com)
+[![Location](https://img.shields.io/badge/📍%20Piracicaba%2C%20SP-0a0a0a?style=for-the-badge&logoColor=64ffda&labelColor=0a0a0a&color=1a1a2e)](https://github.com/joaodamasio22)
+
 </div>
+
+<br/>
 
 <!-- Presentation -->
 <p>
@@ -21,12 +40,6 @@
 
 - ⚡ I like to play sports, like bodybuilding, soccer, skateboarding... I enjoy watching movies, series and playing games in my free time, but I'm also getting into the habit of reading.\o/
 </details>
-
-<!-- Links -->
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jdamasio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-damasio-2439b537a)
-
 
 <!-- GIF -->
 <p align="left">
