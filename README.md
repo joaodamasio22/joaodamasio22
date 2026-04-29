@@ -33,9 +33,12 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+
 ## 🧠 Tecnologias & Stack
 
----
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
 
 ### 🎨 Front-end
 > Desenvolvimento de interfaces modernas, responsivas e focadas na experiência do usuário.
@@ -80,7 +83,9 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
+
 
    ![Profile Views](https://komarev.com/ghpvc/?username=joaodamasio22-sys&color=brightgreen&style=for-the-badge)
 
