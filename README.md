@@ -86,6 +86,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodamasio22&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
    ![Profile Views](https://komarev.com/ghpvc/?username=joaodamasio22-sys&color=brightgreen&style=for-the-badge)
 
